@@ -21,6 +21,12 @@ redirect_from:
 
 I am a Ph.D. candidate at the **HPC & Cloud Computing Center**, Northwestern Polytechnical University (NWPU), Xi'an, China, advised by **[Prof. Jianhua Gu](https://teacher.nwpu.edu.cn/gujianhua.html)** and **[Prof. Tianhai Zhao](https://teacher.nwpu.edu.cn/zhaoth.html)** (expected graduation: **June 2026**). I have been admitted as a postdoc researcher at the **University of Macau**, where I will collaborate with **[Prof. Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/)** and **[Prof. Huanle Xu](https://www.fst.um.edu.mo/personal/huanlexu/)**. I am truly excited to work with them. My research focuses on **AI infrastructure**, **distributed systems**, **operating systems**, **cloud-native serverless**, and **datacenter networks**, with a particular emphasis on **RDMA** and **disaggregated memory**.
 
+
+
+
+📧 Contact: liumingxuan [at] mail [dot] nwpu [dot] edu [dot] cn
+
+
 # 🔥 News
 
 - *2026.04 (expected):* Our paper **Wiseswap** is accepted to **The Web Conference (WWW) 2026** (CCF-A).
