@@ -31,26 +31,16 @@ I am a Ph.D. candidate at the **HPC & Cloud Computing Center**, Northwestern Pol
 
 # 🔥 News
 
+- *2026.04 (expected):* Our paper **Wiseswap** is accepted to **The Web Conference (WWW) 2026** (CCF-A).
 - *2026.01:* Invited talk at USTC ADSL Reading Group, Hefei — *Memory Management in LLM Inference Engine: Problems and Challenges*.
 - *2025.12:* Invited talk at COSCon 2025, Beijing — *RDMA Empowers High-Performance Serverless LLM Elastic Inference in the Cloud*.
 - *2025.09:* Invited talk at RustChinaConf 2025, Hangzhou — *Rust + RDMA Empowers Cross-Machine Remote Memory Serverless Systems*.
-- *2026.04 (expected):* Our paper **Wiseswap** is accepted to **The Web Conference (WWW) 2026** (CCF-A).
 
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-text' markdown="1">
-
-**Wiseswap: Elastic Datacenter Network-aware Disaggregated Memory for Multi-tenant Cloud**
-
-*The Web Conference (WWW 2026)*, Dubai, UAE, April 2026. **(CCF-A, Accepted)**
-
-Disaggregated memory for multi-tenant cloud with datacenter network awareness.
-
-</div>
-</div>
-
+- **Wiseswap: Elastic Datacenter Network-aware Disaggregated Memory for Multi-tenant Cloud.** *The Web Conference (WWW 2026)*, Dubai, UAE, April 2026. **(CCF-A, Accepted)**
 - **ServerlessRec: Fast Serverless Inference for Embedding-based Recommender Systems with Disaggregated Memory.** *31st International European Conference on Parallel and Distributed Computing (Euro-Par 2025)*, Dresden, Germany, August 2025. **(CCF-B)**
 - **ServerlessPD: Fast RDMA-codesigned Disaggregated Prefill-Decoding for Serverless Inference of Large Language Models.** *22nd IEEE International Conference on Web Services (ICWS 2025)*, Helsinki, Finland, July 2025. **(CCF-B)**
 - **ServerlessLSM: Fast RDMA-codesigned Disaggregated Compaction for Elastic Serverless LSM-tree Key-value Store.** *22nd IEEE International Conference on Web Services (ICWS 2025)*, Helsinki, Finland, July 2025. **(CCF-B)**
