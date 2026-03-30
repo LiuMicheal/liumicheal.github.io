@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Mingxuan Liu"
+title                    : "Mingxuan Liu（刘明轩）"
 description              : "Ph.D. candidate at Northwestern Polytechnical University. Research interests include LLM/agent infrastructure, distributed systems, operating systems, cloud-native serverless, and datacenter networks (especially RDMA)."
 repository               : "liumicheal/liumicheal.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Mingxuan Liu"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Mingxuan Liu（刘明轩）"
+  avatar           : "images/me.jpg"
   bio              : "Ph.D. Candidate · HPC & Cloud Computing Center, NWPU"
   location         : "Xi'an, China"
   employer         : "Northwestern Polytechnical University"
