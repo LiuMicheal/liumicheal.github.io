@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at the **HPC & Cloud Computing Center**, Northwestern Polytechnical University (NWPU), Xi’an, China, advised by **Prof. Jianhua Gu** (expected graduation: **June 2026**). My research focuses on **AI infrastructure**, **distributed systems**, **operating systems**, **cloud-native serverless**, and **datacenter networks**, with a particular emphasis on **RDMA** and **disaggregated memory**.
+I am a Ph.D. candidate at the **HPC & Cloud Computing Center**, Northwestern Polytechnical University (NWPU), Xi'an, China, advised by **[Prof. Jianhua Gu](https://teacher.nwpu.edu.cn/gujianhua.html)** and **[Prof. Tianhai Zhao](https://teacher.nwpu.edu.cn/zhaoth.html)** (expected graduation: **June 2026**). I have been admitted as a postdoc researcher at the **University of Macau**, where I will collaborate with **[Prof. Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/)** (Chair Professor, IEEE Fellow, Dean of Faculty of Science and Technology) and **[Prof. Huanle Xu](https://www.fst.um.edu.mo/personal/huanlexu/)** (Assistant Professor, Center for Artificial Intelligence and Robotics). I am truly excited to work with them. My research focuses on **AI infrastructure**, **distributed systems**, **operating systems**, **cloud-native serverless**, and **datacenter networks**, with a particular emphasis on **RDMA** and **disaggregated memory**.
 
 **Research plan (post-Ph.D.):** AI infrastructure, distributed systems, operating systems, cloud-native platforms, and networking.
 
