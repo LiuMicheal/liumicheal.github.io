@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingxuan Liu · 刘明轩"
-description              : "Ph.D. candidate at Northwestern Polytechnical University. Research interests include LLM/agent infrastructure, distributed systems, operating systems, cloud-native serverless, and datacenter networks (especially RDMA)."
+description              : "Ph.D. candidate at Northwestern Polytechnical University (NWPU). Research interests include LLM/agent infrastructure, distributed systems, operating systems, cloud-native serverless, and datacenter networks especially RDMA."
 repository               : "liumicheal/liumicheal.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,7 +26,7 @@ author:
   avatar           : "images/me.jpg"
   bio              : "Ph.D. Candidate · HPC & Cloud Computing Center, NWPU"
   location         : "Xi'an, China"
-  employer         : "Northwestern Polytechnical University"
+  employer         : "NWPU"
   pubmed           :
   googlescholar    :  # e.g. https://scholar.google.com/citations?user=YOUR_ID — fill after you enable the Scholar crawler
   email            : "liumingxuan@mail.nwpu.edu.cn"
