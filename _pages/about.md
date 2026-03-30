@@ -40,26 +40,13 @@ I am a Ph.D. candidate at the **HPC & Cloud Computing Center**, Northwestern Pol
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/500x300.png' alt="Wiseswap" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
 
 **Wiseswap: Elastic Datacenter Network-aware Disaggregated Memory for Multi-tenant Cloud**
 
 *The Web Conference (WWW 2026)*, Dubai, UAE, April 2026. **(CCF-A, Accepted)**
 
 Disaggregated memory for multi-tenant cloud with datacenter network awareness.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OSDI 2026</div><img src='images/500x300.png' alt="KRSN" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**KRSN: Software-based Virtual Kernel-space RDMA Serverless Networking**
-
-*Submitted to USENIX OSDI 2026.*
-
-Kernel-space RDMA networking for serverless systems.
 
 </div>
 </div>
