@@ -4,6 +4,10 @@ on:
  page_build: 
  schedule:
   - cron:  '0 8 * * *'
+ workflow_dispatch:
+ push:
+   paths:
+     - '.github/workflows/google_scholar_crawler.yaml'
 
 jobs:
   build:
